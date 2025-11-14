@@ -1,0 +1,47 @@
+body{
+    background-color: aqua;
+}
+/* @media(width<=600px){
+    body{
+        background-color: blueviolet;
+    }
+    h1{
+        color: azure;
+    }
+}
+@media(width<=400px){
+    body{
+        background-color: gold;
+    }
+    h1{
+        color: white;
+    }
+*/
+/*
+@media(orientation: portrait){
+    body{
+        background-color: greenyellow;
+    }
+}*/
+/* @media(max-width:600px){
+    body{
+        background-color: blue;
+    }
+}
+@media(max-width:200px){
+    body{
+        background-color: green;
+    }
+} */
+/* @media(min-width: 200px){
+
+}
+@media(min-width: 600px){
+
+}*/
+@media(min-width:200px) and (max-width:600px){
+
+}
+@media(200px <= width <= 600px){
+    
+}
